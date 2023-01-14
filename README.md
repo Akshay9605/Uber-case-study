@@ -83,7 +83,7 @@ So this is our final dashboard with slicers.
 ![uber dashboard image](https://user-images.githubusercontent.com/90236224/212477520-614340a2-6377-4191-97fc-5c83128684a8.jpg)
 
 # *Recommendations*
-### 1. Ride cancellation is 18.74% of total request which significant. It not only affect user experience but also additional charges paid by users or drivers. Proper analysis should be done, why are cancellations increasing, on the user end as well as driver's end. 
+### 1. Ride cancellation is 18.74% of total request which is significant. It not only affects user experience but also levy additional charges, paid by users or drivers. Proper analysis should be done, why are cancellations increasing, on the user end as well as driver's end. 
 
 ### 2. The no car availability is almost 40% of total request which again shift user to other cab providing companies. More number of cars should be employed after with area specific demands. It will help to increase and maitain the user rentention rate. 
 
