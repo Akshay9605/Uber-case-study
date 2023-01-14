@@ -83,13 +83,13 @@ So this is our final dashboard with slicers.
 ![uber dashboard image](https://user-images.githubusercontent.com/90236224/212477520-614340a2-6377-4191-97fc-5c83128684a8.jpg)
 
 # *Recommendations*
-1. Ride cancellation is 18.74% of total request which significant. It not only affect user experience but also additional charges paid by users or drivers. Proper analysis should be done, why are cancellations increasing, on the user end as well as driver's end. 
+### 1. Ride cancellation is 18.74% of total request which significant. It not only affect user experience but also additional charges paid by users or drivers. Proper analysis should be done, why are cancellations increasing, on the user end as well as driver's end. 
 
-2. The no car availability is almost 40% of total request which again shift user to other cab providing companies. More number of cars should be employed after with area specific demands. It will help to increase and maitain the user rentention rate. 
+### 2. The no car availability is almost 40% of total request which again shift user to other cab providing companies. More number of cars should be employed after with area specific demands. It will help to increase and maitain the user rentention rate. 
 
-3. Rides booked from City has 30.40% cancellation rate which is not good and rides booked from Airport has 52.90% no car availability issue with highest on 14 and 15 July. Request from Airport is 2 times the availability of cars. Number of cars should be increased. 
+### 3. Rides booked from City has 30.40% cancellation rate which is not good and rides booked from Airport has 52.90% no car availability issue with highest on 14 and 15 July. Request from Airport is 2 times the availability of cars. Number of cars should be increased. 
 
-4. In the conclusion Uber is the company who revolutionized the cab booking industry with its easy to use platform and on site drop & picking. These are some insight which should be looked into. Less cancellation rate, more availability of car and high trip completion rate will help user retention, better user experience, more frequent ride booking and overall revenue generation for the company.   
+### 4. In the conclusion Uber is the company who revolutionized the cab booking industry with its easy to use platform and on site drop & picking. These are some insight which should be looked into. Less cancellation rate, more availability of car and high trip completion rate will help user retention, better user experience, more frequent ride booking and overall revenue generation for the company.   
 
 
 
