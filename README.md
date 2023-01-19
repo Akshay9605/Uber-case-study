@@ -91,7 +91,8 @@ So this is our final dashboard with slicers.
 
 ### 4. In the conclusion Uber is the company who revolutionized the cab booking industry with its easy to use platform and on site drop & picking. These are some insight which should be looked into. Less cancellation rate, more availability of car and high trip completion rate will help user retention, better user experience, more frequent ride booking and overall revenue generation for the company.   
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="akshay9605" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akshay9605?trk=profile-badge">Akshay Kumar</a></div>
+              
 
 
 
